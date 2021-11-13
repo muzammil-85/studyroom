@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "classroom"
+name = "studyroom"
 version = "0.1.0"
 description = ""
 authors = ["muzammil-85 <muzukondeth85@gmail.com>"]
