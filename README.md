@@ -12,7 +12,7 @@ An Open-Source Google Classroom alternative in django.
 Soon to be completed and will be ready for beta.
 
 
-### Early Preview
+<!-- ### Early Preview
 
 - Home 
 <p align="center">
@@ -33,7 +33,7 @@ Soon to be completed and will be ready for beta.
 <p align="center">
   <img src="https://i.imgur.com/doBiQQX.png" title="Join a Class"/>
 </p>
-
+ -->
 - Login 
 <p align="center">
   <img src="https://i.imgur.com/uTmquey.png" title="Login"/>
