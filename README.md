@@ -1,4 +1,4 @@
-# Classroom
+# Studyroom
 An Open-Source Google Classroom alternative in django.
 
 
