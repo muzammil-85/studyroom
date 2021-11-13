@@ -1,9 +1,6 @@
 # Classroom
 An Open-Source Google Classroom alternative in django.
 
-![GitHub](https://img.shields.io/github/license/parthpandyappp/Classroom?style=for-the-badge)
-[![Discord](https://img.shields.io/discord/739722101803712585?style=for-the-badge)](https://discord.gg/MF7Mn9q)
-![Django](https://img.shields.io/badge/Powered%20by-Djnago-blue?style=for-the-badge&logo=appveyor)
 
 ## Features
 - Create a class
@@ -14,7 +11,6 @@ An Open-Source Google Classroom alternative in django.
 
 Soon to be completed and will be ready for beta.
 
-#### Meanwhile, [Join](https://discord.gg/MF7Mn9q) our Discord server for development and early user sign up.
 
 ### Early Preview
 
@@ -51,7 +47,6 @@ Soon to be completed and will be ready for beta.
 - visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 
 
-##### Ask you queries by [Joining](https://discord.gg/MF7Mn9q) our Discord server.
 
 
 <img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+15+1.jpg" width="50px" />
@@ -59,7 +54,7 @@ Soon to be completed and will be ready for beta.
 
 ## Contributors 🦸
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/parthpandyappp/Classroom/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=parthpandyappp/Classroom" /></a>
-</p>
+</p> -->
 
