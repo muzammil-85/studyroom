@@ -34,10 +34,10 @@ Soon to be completed and will be ready for beta.
   <img src="https://i.imgur.com/doBiQQX.png" title="Join a Class"/>
 </p>
  -->
-- Login 
+<!-- - Login 
 <p align="center">
   <img src="https://i.imgur.com/uTmquey.png" title="Login"/>
-</p>
+</p> -->
 
 ## Local Installation
 - clone/download the repo.
@@ -52,7 +52,7 @@ Soon to be completed and will be ready for beta.
 <img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+15+1.jpg" width="50px" />
 
 
-## Contributors 🦸
+<!-- ## Contributors 🦸 -->
 
 <!-- <p align="center">
   <a href="https://github.com/parthpandyappp/Classroom/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=parthpandyappp/Classroom" /></a>
